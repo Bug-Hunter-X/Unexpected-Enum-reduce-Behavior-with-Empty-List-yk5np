@@ -1,0 +1,1 @@
+This repository demonstrates a potential issue in Elixir when using `Enum.reduce` with an empty list and an initial value that does not fit the function's type. The bug.ex file contains the erroneous code, while bugSolution.ex provides a corrected version.
